@@ -1,13 +1,15 @@
-# Spring Boot Project
+# Spring Boot Learning Projects
 
-This is a practice project I built while learning Spring Boot.  
-It shows how to create a simple REST API using Java and the Spring framework.
+This repository showcases my work while learning **Spring Boot**.  
+It contains multiple small applications and examples that demonstrate key concepts of building Java backends with the Spring framework.
 
 ---
 
-## Features
-- REST API with endpoints for basic CRUD operations  
-- Uses Spring Boot auto-configuration  
-- In-memory H2 database for quick testing  
-- Organized into Controller, Service, and Repository layers  
+##  Highlights
+- **REST APIs** — built with `@RestController` and JSON responses  
+- **Layered Architecture** — Controller, Service, and Repository classes connected properly  
+- **Spring Data JPA** — used for database access  
+- **Databases** — worked with in-memory H2 as well as external databases (MySQL/PostgreSQL)  
+- **Configuration** — explored application properties and profiles  
+
 
